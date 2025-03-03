@@ -16,6 +16,18 @@ EUR  = 000400000017CA00
 JPN  = 000400000017FD00
 ```
 
+## Features:
+- Small Player
+- Faster Swimming
+- Limited Reach
+- Higher FOV
+- No Fall Damage
+- Higher Damage Rates
+
+### Note:
+- The player model itself (the skin) is only visual (the sizing stays default but doesn't affect mod itself).
+- This is to enable compatibility with Multiplayer (for whatever psychopath actually plays it).
+
 ## Compiling Patch:
 - I compiled my Patch using: [MC3DS IPS-Patch Tool](https://github.com/Minecraft-3DS-Community/IPS-Patch-Tool).
 - However [LunarIPS](https://www.romhacking.net/utilities/240/) or [FLIPS (Floating IPS)](https://github.com/Alcaro/Flips) work fine as well.
