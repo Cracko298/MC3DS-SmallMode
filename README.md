@@ -14,6 +14,9 @@ The text [mc3dsTID] is your Regions TitleID.
 USA  = 00040000001B8700
 EUR  = 000400000017CA00
 JPN  = 000400000017FD00
+
+*The code.ips file does NOT go in the romfs folder.
+**If the directory doesn't exist, create it with the above mention.
 ```
 
 ## Features:
