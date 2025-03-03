@@ -20,4 +20,4 @@ JPN  = 000400000017FD00
 ```
 ## Compiling Patch:
 - I compiled my Patch using: [MC3DS IPS-Patch Tool](https://github.com/Minecraft-3DS-Community/IPS-Patch-Tool).
-- You can use LunarIPS or FLIPS (Floating IPS) as well.
+- You can use [LunarIPS](https://www.romhacking.net/utilities/240/) or [FLIPS (Floating IPS)](https://github.com/Alcaro/Flips) as well.
