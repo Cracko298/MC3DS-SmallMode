@@ -7,7 +7,7 @@
 
 
 ## Installing Mod:
-- Download your regions' version of the Patch [Here]().
+- Download your regions' version of the Patch [Here](https://github.com/Cracko298/MC3DS-SmallMode/releases/latest).
 - Extract the Downloaded `*.zip` file.
 - Place the Patch in the Following Directory:
 ```
