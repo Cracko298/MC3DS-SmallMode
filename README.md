@@ -17,7 +17,7 @@ JPN  = 000400000017FD00
 
 ## Compiling Patch:
 - I compiled my Patch using: [MC3DS IPS-Patch Tool](https://github.com/Minecraft-3DS-Community/IPS-Patch-Tool).
-- You can use [LunarIPS](https://www.romhacking.net/utilities/240/) or [FLIPS (Floating IPS)](https://github.com/Alcaro/Flips) as well.
+- However [LunarIPS](https://www.romhacking.net/utilities/240/) or [FLIPS (Floating IPS)](https://github.com/Alcaro/Flips) work fine as well.
 
 ## Make Your Own!
 - If you're interested in making your Own Patches for MC3DS, we have a Repo for this [Here](https://github.com/Minecraft-3DS-Community/GamePatches).
