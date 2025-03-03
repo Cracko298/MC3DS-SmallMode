@@ -19,4 +19,5 @@ EUR  = 000400000017CA00
 JPN  = 000400000017FD00
 ```
 ## Compiling Patch:
-- [MC3DS IPS-Patch Tool](https://github.com/Minecraft-3DS-Community/IPS-Patch-Tool).
+- I compiled my Patch using: [MC3DS IPS-Patch Tool](https://github.com/Minecraft-3DS-Community/IPS-Patch-Tool).
+- You can use LunarIPS or FLIPS (Floating IPS) as well.
