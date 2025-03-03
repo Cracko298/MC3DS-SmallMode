@@ -6,6 +6,17 @@
 
 
 
+## Installing Mod:
+- Download your regions' version of the Patch [Here]().
+- Extract the Downloaded `*.zip` file.
+- Place the Patch in the Following Directory:
+```
+.\luma\titles\[mc3dsTID]\code.ips
 
+The text [mc3dsTID] is your Regions TitleID.
+USA	 = 00040000001B8700
+EUR  = 000400000017CA00
+JPN  = 000400000017FD00
+```
 ## Compiling Patch:
 - [MC3DS IPS-Patch Tool](https://github.com/Minecraft-3DS-Community/IPS-Patch-Tool).
