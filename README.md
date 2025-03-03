@@ -22,3 +22,7 @@ JPN  = 000400000017FD00
 
 ## Make Your Own!
 - If you're interested in making your Own Patches for MC3DS, we have a Repo for this [Here](https://github.com/Minecraft-3DS-Community/GamePatches).
+
+## Video Overview:
+https://github.com/user-attachments/assets/02c10d66-5643-40d2-90b6-d28bdb4870ff
+
